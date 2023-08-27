@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@400;700&display=swap');
 
 
 body {
@@ -10,7 +10,7 @@ body {
     width:100vw;
     height:100vh;
     overflow:hidden;
-    font-family: 'Merienda', cursive;
+    font-family: 'Bellota', cursive;
 }
 #loading {
     width: 100vw;
