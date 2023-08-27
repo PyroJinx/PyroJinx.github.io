@@ -1,7 +1,7 @@
 // function([string1, string2],target id,[color1,color2])  
 
 setTimeout(function(){
-  consoleText(['Hello!', "I'm Manjot.", 'Nice to See You!'],'text');
+  consoleText(['Hello!', "I'm Manjot.", 'Nice to Meet You!'],'text');
 }, 2400);  
 
 
